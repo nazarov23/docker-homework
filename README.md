@@ -14,4 +14,9 @@
 ### 1. Запуск PostgreSQL
 ```bash
 docker-compose up -d
+```
 
+---
+### Скриншот
+
+<img width="650" height="368" alt="Screenshotcarta" src="https://github.com/user-attachments/assets/712277e1-bdb2-4252-bf16-177e314e85a2">
