@@ -7,7 +7,6 @@
 - `db-api.jar` - Java приложение (Spring Boot)
 - `application.properties` - конфигурация приложения
 - `docker-compose.yml` - конфигурация Docker Compose для PostgreSQL
-- `init.sql` - скрипт инициализации базы данных
 - `.gitignore` - файл игнорирования Git
 
 ## Инструкция по запуску
@@ -16,5 +15,3 @@
 ```bash
 docker-compose up -d
 
-## Cкриншот
-![Screenshot_carta.png](../../Desktop/Screenshot_carta.png)
